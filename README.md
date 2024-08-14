@@ -1,16 +1,19 @@
-# news_app
+<h1 align="center">👉 News App 👈</h1>
 
-A new Flutter project.
+<h3 align="center"> News App Video </h3>
+<div align="center">
+ <video src="https://github.com/user-attachments/assets/5fe87b48-c3fd-4833-983e-a1ed876983c5"> 
+</video>
+</div>
 
-## Getting Started
+<h3 align="center">👉 News Images👈</h3>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+  <img height="550"  src="https://github.com/user-attachments/assets/d6fc669f-f9d5-4a49-b441-358cae25cd13" />
+  <img height="550"  src="https://github.com/user-attachments/assets/adaef2ea-a823-4abd-b743-9cc0bb097138" /><br>
+  <img height="550"  src="https://github.com/user-attachments/assets/8dd37bf8-10e5-418c-8745-10eea3071199" />
+  <img height="550"  src="https://github.com/user-attachments/assets/badd5467-c41a-46d8-9cad-29f619839668" />
+</div>
+<div align="center">
+<a href="https://github.com/YashuPatel1724/news_app/tree/master/lib">-> 📂 Go To Dart File 📂 </a>
+</div>
